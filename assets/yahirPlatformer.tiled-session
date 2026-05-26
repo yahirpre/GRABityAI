@@ -1,0 +1,63 @@
+{
+    "activeFile": "",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "exportAsImage.includeBackgroundColor": true,
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "": {
+            "scaleInEditor": 1
+        },
+        "C:/Users/Yahir Prenger/Documents/GitHub/PlatformImprovement/assets/platformer-level-1.tmj": {
+            "expandedObjectLayers": [
+                3
+            ],
+            "scale": 1,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 745,
+                "y": 277.5
+            }
+        },
+        "C:/Users/Yahir Prenger/Documents/GitHub/PlatformImprovement/assets/platformer-level-1.tmj#kenny_tilemap_packed": {
+            "scaleInDock": 1
+        },
+        "level-test.tmj": {
+            "scale": 4.2926,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 34.47793877836277,
+                "y": 192.07473326189253
+            }
+        },
+        "level-test.tmj#monochrome_tilemap_packed": {
+            "scaleInDock": 1
+        },
+        "level-test.tmj#monochrome_tilemap_transparent_packed": {
+            "scaleInDock": 1,
+            "scaleInEditor": 3.03
+        }
+    },
+    "frame.defaultDuration": 1000,
+    "last.imagePath": "C:/Users/Yahir Prenger/Downloads/kenney_1-bit-platformer-pack/Tilemap",
+    "map.height": 30,
+    "map.lastUsedFormat": "json",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "map.width": 90,
+    "openFiles": [
+        "level-test.tmj"
+    ],
+    "project": "yahirPlatformer.tiled-project",
+    "property.type": "bool",
+    "recentFiles": [
+        "level-test.tmj",
+        "C:/Users/Yahir Prenger/Documents/GitHub/PlatformImprovement/assets/platformer-level-1.tmj"
+    ],
+    "tileset.embedInMap": true,
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}
